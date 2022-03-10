@@ -1,0 +1,55 @@
+        
+		#nav {
+			text-align: center; /* centrer le texte */
+		}
+		#nav li {
+			display: inline;
+			list-style: none;
+			background-color: grey;
+			color: white;
+			font-size: 20px;
+			text-decoration:none;
+			padding:20px;
+		}
+		#nav a {
+			display:inline-block;
+			text-decoration:none;
+		}
+        #title{
+			text-align: center;
+			background-color: grey;
+			font-size: 50px;
+			margin-top:10px;
+			width: 100%;
+			color: white;
+		}
+		#title a{
+			text-decoration:none;
+		}
+		a { 
+			color: white; 
+		}
+		a:hover {
+			color: #D3D3D3;
+		}
+		p a {
+			text-decoration :none;
+			color: grey; 
+		}
+		.co{
+			border-width:5px;
+			border-color:grey;
+		}
+		.txt{
+			font-size:18px;
+		}
+		#ep{
+			width: 150px;
+			height: 30px;
+		}
+		#button{
+			background-color: grey;
+			text-align: center;
+			color: white;
+			font-size: 20px;
+		}
